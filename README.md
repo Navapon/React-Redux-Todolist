@@ -3,10 +3,11 @@ My FirstApp Todolist with React + Redux
 
 Clone this github copy it!!
 
-What is required!!
+What is required
+
     1. node.js (npm) if you don't have it this link >> https://nodejs.org/en/download/
     2. git (In case you need command !! if don't just download repo on you local) 
-        if you don't have it this link >> https://git-scm.com/downloads
+                 if you don't have it this link >> https://git-scm.com/downloads
    
 Now you are Ready to Test this App
 
