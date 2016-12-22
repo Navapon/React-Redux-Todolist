@@ -1,0 +1,24 @@
+h1 {
+    margin-top: 100px;
+}
+#addTodo {
+    padding: 7px 2px;
+    width: 75%;
+    margin-top: 100px;
+    margin-top: 10%;
+    font-family: sans-serif;
+    font-size: 18px;
+    appearance: none;
+    box-shadow: none;
+    border-radius: none;
+
+
+  padding: 10px;
+  border: none;
+  border-bottom: solid 2px #c9c9c9;
+  transition: border 0.3s;
+}
+
+#addTodo .focus {
+  border-bottom: solid 2px #969696;
+}

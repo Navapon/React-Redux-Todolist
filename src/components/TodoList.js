@@ -1,14 +1,18 @@
 import React, { PropTypes } from 'react'
 import Todo from './Todo'
+import { Container } from 'semantic-ui-react'
 
 const TodoList = ({ todos, onTodoClick }) => (
   <ul>
+    
     {todos.map(todo =>
-      <Todo
-        key={todo.id}
-        {...todo}
-        onClick={() => onTodoClick(todo.id)}
-      />
+  
+        <Todo
+          key={todo.id}
+          {...todo}
+          onClick={( ) => onTodoClick(todo.id) }
+        />
+
     )}
   </ul>
 )
