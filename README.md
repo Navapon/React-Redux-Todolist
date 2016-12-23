@@ -17,12 +17,17 @@ Follow on below instruction
     2. git clone https://github.com/Navapon/React-Redux-Todolist.git
     3. cd React-Redux-Todolist
     4. npm install
-    5. npm run build
-    6. open file index.html
+    5. npm start
+    6. open browser localhost:8080
   
   
 You are completely
     
+reference guide
+
+1. https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a#.lvptg9fo6
+2. http://www.forminit.com/react-basic-01/
+3. https://github.com/sitepoint-editors/immutable-redux-todo
     
 
 
