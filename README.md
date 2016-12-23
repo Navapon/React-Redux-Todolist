@@ -17,8 +17,8 @@ Follow on below instruction
     2. git clone https://github.com/Navapon/React-Redux-Todolist.git
     3. cd React-Redux-Todolist
     4. npm install
-    5. npm start
-    6. open browser type this URL  http://localhost:8080
+    5. npm run build
+    6. open file index.html
   
   
 You are completely
